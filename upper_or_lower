@@ -1,0 +1,17 @@
+# positive or negetive
+num =int(input("Enter a number:"))
+if num > 0:
+    print("Postive")
+else:
+    print("Negative")
+
+# 2. Check Character is Uppercase or Lowercase (Without Built-in Functions)
+ch = input("Enter a character:")
+if 'a' <=ch <='z':
+    print("Lowercase")
+else:
+    print("Uppercaase")
+
+# 3. Pass or Fail (6 Subjects)
+s1=int(input("suject 1: "))
+s1=int(input("suject 2: "))
